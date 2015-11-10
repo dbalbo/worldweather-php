@@ -1,10 +1,12 @@
-Beer Party
+World Weather 
 Synopsis
 
 WorldWeather is a simple one page app that uses regex to scrape info from a weather site to efficiently and quickly give any user a 3-day forecast in any city in the world.
+
+
 Motivation
 
-This app was created for personal practice in using JS, Jquery, CSS, regex, ajax, and for learning PHP.
+This app was created for personal practice in using JS, jQuery, CSS, regex, ajax, and for learning PHP.
 
 Installation
 

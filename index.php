@@ -3,23 +3,32 @@
 <html>
 <head>
 	<title>WorldWideWeather</title>
-!
+
 	<meta charset="utf-8" />
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	!
+	
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/
 	bootstrap.min.css">
-	!
+
 	<!-- Optional theme -->
 	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/
 	bootstrap-theme.min.css">
+	<link rel="stylesheet" href="css/styles.css" type="text/css" media="all"/>
 </head>
 
 <body>
 
-testing testing
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 col-md-offset-3">
+				test text
+			</div>	
+		</div>	
+	</div>	
+
+
 
 
 <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>

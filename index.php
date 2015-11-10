@@ -23,7 +23,20 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 col-md-offset-3">
-				test text
+				
+				<h1>World Wide Weather</h1>
+
+				<p class="lead"> Enter your city below to get your fast 3-day forecast</p>
+
+				<form>
+					<div class="form-group">
+						<input type="text" class="form-control" name="city" id="city"/>
+
+					</div>	
+
+					<button class="btn btn-success btn-lg">Give Me My Forecast</button>
+				</form>	
+
 			</div>	
 		</div>	
 	</div>	

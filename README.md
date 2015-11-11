@@ -1,14 +1,14 @@
-World Weather 
-Synopsis
+##World Weather 
+##Synopsis
 
 WorldWeather is a simple one page app that uses regex to scrape info from a weather site to efficiently and quickly give any user a 3-day forecast in any city in the world.
 
 
-Motivation
+##Motivation
 
 This app was created for personal practice in using JS, jQuery, CSS, regex, ajax, and for learning PHP.
 
-Installation
+##Installation
 
 WorldWeather uses the following:
 
@@ -23,7 +23,7 @@ CSS
 To use this on your local machine, simply clone to desktop, and run the index.php file using MAMP (or your php local server of choice). To do this download MAMP, and put the project folder into the htdocs section and type 'localhost' into your browser.
 
 
-Credit
+##Credit
 
 This site was created with the info obtained from www.weather-forecast.com
 

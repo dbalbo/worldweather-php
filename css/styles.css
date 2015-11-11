@@ -13,7 +13,7 @@ html, body {
 	height:100%;
 	background-size:cover;
 	background-position:center;
-	padding-top:20px;
+	padding-top:15px;
 
 }
 
@@ -38,6 +38,10 @@ button {
 }
 
 .alert {
-	margin-top:20px;
+	margin-top:40px;
 	display:none;
+}
+
+.moveForm {
+	margin-top:65px;
 }

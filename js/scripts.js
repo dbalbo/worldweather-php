@@ -9,20 +9,22 @@ $("#myForecast").click(function(event) {
 
 		$.get("scraper.php?city="+$("#city").val(), function(data) {
 
+	
+
+	if (data=="") {
+
+			
+		$("#fail").fadeIn();
+
+
+	} else {
+			
 		$("#success").html(data).fadeIn();
 
-		if (data=="") {
-
-			
-			$("#fail").fadeIn();
-
-
-		} else {
-			
-			$("#success").html(data).fadeIn();
 		}
 
 	});
+
 
 	} else {
 

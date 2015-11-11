@@ -13,7 +13,7 @@ html, body {
 	height:100%;
 	background-size:cover;
 	background-position:center;
-	padding-top:30px;
+	padding-top:20px;
 
 }
 
@@ -34,5 +34,10 @@ p {
 button {
 
 	margin-top:20px;
+	margin-bottom:20px;
 }
 
+.alert {
+	margin-top:20px;
+	display:none;
+}
